@@ -1,0 +1,9 @@
+1. HTTP is a protocol it is how your browser and server communicate, HTTP stands for Hypertext Transfer Protocol.
+2. A URL is a combination of Protocol, Hostname, Port, Resource and Query. 
+3. DNS is a Domain Name Service, it holds most Hostname's and converts them into Ip Addresses.
+4. Query String is the extra information such as form info, search terms, when provided the server can use them to change the page.
+5. GET and POST. GET will get data from the server while POST will change or add data to the server.
+6. A HTTP request is a request from a browser to a server which follows the HTTP protocol.
+7. A HTTP response is a response from a server to the browser which follows the HTTP protocol.
+8. A HTTP header provides additional information about the request and/or response. Some Request headers ar: Host, Accept. Some Response headers are: Content-Type, Cache-Control.
+9. Your browser uses the Hostname to find the IP address using DNS, makes a request to the IP with headers included, gets a response back, makes a DOM from the HTML and gets other Resources needed, for other resources need the browser makes seprate HTTP requests.
